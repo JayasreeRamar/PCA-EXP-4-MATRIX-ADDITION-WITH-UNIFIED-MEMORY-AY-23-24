@@ -514,10 +514,12 @@ int main(int argc, char **argv)
 
 ## OUTPUT:
 ### WITH MEMSET:
-![alt text](<Screenshot 2025-09-30 093301.png>)
+<img width="1671" height="163" alt="Screenshot 2025-09-30 093301" src="https://github.com/user-attachments/assets/023d9411-ceb6-403b-bb8c-f543d2865f67" />
+
 
 ### WITHOUT MEMSET:
-![alt text](<Screenshot 2025-09-30 093317.png>)
+<img width="1796" height="182" alt="Screenshot 2025-09-30 093317" src="https://github.com/user-attachments/assets/68e20de8-95b6-4f94-b82e-c476cdd19c1f" />
+
 
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.000004 time.
